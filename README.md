@@ -1,2 +1,7 @@
-# CT294_MHUD_Appied_Machine_Learning
- CT294_MayHocUngDung
+# ⚜️ Appied_Machine_Learning ⚜️
+ CT294
+## Kiến thức cần có:
+ - Toán học cơ bản
+ - CTDL
+ - Python
+...
